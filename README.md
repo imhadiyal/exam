@@ -6,11 +6,7 @@ This project is a student management app designed to help users manage student d
 
 ## Screenshots and GIF
 
-![Homepage](screenshots/homepage.png)
-![Update Dialog](screenshots/updatedialog.png)
-![Delete Confirmation Dialog](screenshots/deleteconfirmation.png)
 
-[Watch the app in action!](screenshots/appdemo.gif)
 
 ## Features
 
@@ -27,7 +23,7 @@ This project is a student management app designed to help users manage student d
 
   <img src = "https://github.com/IamSmitChitroda/student_data/assets/143987366/0989b9ea-fd27-422a-8a25-16cc31e70285" width=22% height=35% >
 
-    <img src = "https://github.com/IamSmitChitroda/student_data/assets/143987366/3339a9af-ea26-4b89-955f-6e2512b2d423" width=22% height=35% >
+   <img src = "https://github.com/IamSmitChitroda/student_data/assets/143987366/3339a9af-ea26-4b89-955f-6e2512b2d423" width=22% height=35% >
  
   <img src = "https://github.com/IamSmitChitroda/student_data/assets/143987366/057563a0-93f1-4370-8bf0-9d9369d2f21f" width=22% height=35% >
 
